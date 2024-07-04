@@ -106,6 +106,7 @@
   <project path="external/avb" name="LineageOS/android_external_avb" groups="pdk" />
   <project path="device/mediatek/sepolicy_vndr" name="LineageOS/android_device_mediatek_sepolicy_vndr" groups="pdk-fs" remote="github" revision="lineage-21" />
   <project path="hardware/mediatek" name="LineageOS/android_hardware_mediatek" groups="pdk-fs" remote="github" revision="lineage-21" />
+  <project path="hardware/oplus" name="LineageOS/android_hardware_oplus" groups="pdk-fs" remote="github" revision="lineage-21" />  
   <project path="external/bazelbuild-kotlin-rules" name="platform/external/bazelbuild-kotlin-rules" groups="pdk" remote="aosp" />
   <project path="external/bazelbuild-platforms" name="platform/external/bazelbuild-platforms" groups="pdk" remote="aosp" />
   <project path="external/bazelbuild-rules_android" name="platform/external/bazelbuild-rules_android" groups="pdk" remote="aosp" />
